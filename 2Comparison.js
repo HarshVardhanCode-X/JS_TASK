@@ -1,0 +1,9 @@
+console.log(10 > 5);       
+console.log("10" == 10);   
+console.log("10" === 10);  
+console.log(false == 0);  
+console.log(false === 0);  
+console.log(true == 1);  
+console.log(true === 1); 
+console.log(undefined == null);  
+console.log(undefined === null); 
